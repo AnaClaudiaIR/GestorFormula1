@@ -1,0 +1,15 @@
+Perez;Red Bull;150
+Stroll;Aston Martin;78
+Mindy;Red Bull;145
+Nina;Ferrari;99
+Piastri;McLaren;165
+Leclerc;Ferrari;185
+Gasly;Alpine;82
+Albon;Williams;45
+Hulkenberg;Haas;28
+Russell;Mercedes;145
+Hamilton;Mercedes;190
+Alonso;Aston Martin;170
+Sainz;Ferrari;175
+Tsunoda;RB;32
+Verstappen;Red Bull;255
